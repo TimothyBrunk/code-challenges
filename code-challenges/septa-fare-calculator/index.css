@@ -1,0 +1,16 @@
+#container {
+  text-align: center;
+}
+#container select {
+  width: 15%;
+}
+#container input {
+  display: inline-block;
+}
+/*
+started working on price result css. 
+
+#priceResult {
+  outline-style: solid;
+  color: black;
+}*/
